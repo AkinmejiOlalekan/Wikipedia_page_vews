@@ -2,7 +2,7 @@
 This project implements an end-to-end data pipeline using Apache Airflow to automate the ingestion, extraction, transformation, and storage of Wikipedia pageview data.
 It was developed as part of a CDE Bootcamp task on Data Workflow Orchestration with Apache Airflow, focusing on applying Airflow to a practical, real-world data engineering scenario.
 
-## Peline automates:
+## Pipeline automates:
 
 - Downloading Wikipedia hourly pageview data in compressed format (.gz)
 
