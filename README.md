@@ -45,4 +45,4 @@ To validate this idea, the project retrieves and analyzes the hourly Wikipedia p
 
 ## Dag Structure
 
-![Dag Structure](/dags/page_counts/images/dag_struture.png)
+![Dag Structure](/images/dag_struture.png)
